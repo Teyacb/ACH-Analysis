@@ -1,0 +1,11 @@
+participant_id,run_id,segment,n_scr,clean_min,scr_freq_per_min,phasic_area_per_min
+ACHI_2026_901,run-1,baseline,5,4.16,1.2,0.45
+ACHI_2026_901,run-2,task,13,3.89,3.34,1.79
+ACHI_2026_901,run-3,task,18,3.59,5.02,2.18
+ACHI_2026_901,run-5,task,6,4.08,1.47,0.72
+ACHI_2026_901,run-7,task,7,3.79,1.85,0.77
+ACHI_2026_902,run-1,baseline,9,3.66,2.46,1.27
+ACHI_2026_902,run-2,task,11,3.86,2.85,1.82
+ACHI_2026_902,run-3,task,8,4.05,1.97,0.87
+ACHI_2026_902,run-5,task,21,4.01,5.23,2.45
+ACHI_2026_902,run-7,task,18,4.2,4.28,2.08

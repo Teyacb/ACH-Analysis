@@ -1,0 +1,17 @@
+# Personal Python environment (recreate with: pip install -r requirements.txt)
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Practice data and outputs (recreate with make_synthetic_data.py / run_synthetic_demo.py)
+synthetic_data/
+synthetic_derived/
+
+# Real participant data and outputs: never upload
+Data/
+derived/
+*.acq
+
+.DS_Store
